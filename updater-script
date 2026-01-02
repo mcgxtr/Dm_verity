@@ -1,0 +1,10 @@
+ui_print(" ");
+ui_print("================================");
+ui_print(" dm-verity Disabler (Universal)");
+ui_print(" Owner : Mcgxtr");
+ui_print("================================");
+ui_print(" ");
+
+ui_print("Disabling dm-verity...");
+run_program("/sbin/sh", "/common/disable-verity.sh");
+ui_print("Done.");
