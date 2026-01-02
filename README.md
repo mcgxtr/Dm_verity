@@ -1,3 +1,13 @@
+## ⚠️ Sorumluluk Reddi
+
+Bu yazılım **eğitim ve geliştirme amaçlı** olarak paylaşılmıştır.  
+Cihazınızda oluşabilecek **bootloop, veri kaybı, sistem hasarı, garanti dışı kalma** gibi durumlardan **geliştirici hiçbir şekilde sorumlu değildir**.
+
+Bu ZIP’i kullanmak tamamen **kullanıcının kendi sorumluluğundadır**.  
+Ne yaptığını bilmeyen kullanıcıların kullanması **önerilmez**.
+
+Devam ederek tüm sorumluluğu kabul etmiş sayılırsınız.
+
 ### Yöntem1
 
 Adb/Fastboot Moda al cihazı
